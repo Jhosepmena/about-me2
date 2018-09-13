@@ -1,0 +1,33 @@
+body {background: lightblue url(https://media.giphy.com/media/3o7qE2VAxuXWeyvJIY/giphy.gif);
+
+
+}
+
+header {
+  background: rgb(82, 161, 88);
+  color: rgb(245, 245, 245);
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  margin-bottom: 20px;
+
+}
+
+ 
+
+
+              .bullets {
+              display: block;
+              margin-top: 1em;
+              margin-bottom: 40em;
+              margin-left: 200;
+              margin-right: 200;
+              text-align: center;
+              color: aliceblue;
+              
+            }
+
+h1 {font-size: 24px;
+font-weight: 30px; }
+
+li {margin: 25px;}
