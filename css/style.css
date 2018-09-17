@@ -1,33 +1,83 @@
-body {background: lightblue url(https://media.giphy.com/media/3o7qE2VAxuXWeyvJIY/giphy.gif);
+body {background: #FFFFFF;
 
 
 }
 
 header {
-  background: rgb(82, 161, 88);
-  color: rgb(245, 245, 245);
-  height: 70px;
-  line-height: 70px;
-  text-align: center;
-  margin-bottom: 20px;
+  background: #3F51B5;
+  color: #FFFFFF;
+  height: 100px;
+	width: 100%;
+  
+	margin-bottom: 20px;
+	padding-bottom: 30px;
+	box-shadow: 0 0 40px 0 rgba(0,0,0,.45);
+	padding-top: 190px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Verdana", "sans-serif";
+	}
 
+.mypicture { 
+	padding-left: 45%;
+	padding-right: 45%;
+	}
+	
+	
+	.bullets { display: inline-block;
+              margin-top: -2em;
+              margin-bottom: 1em;
+              text-align:justify;
+              color: #242222;
+	 		padding-top: 20px;
+		list-style-type: square;
+		padding-left: 45%; 
+		 }
+
+
+
+
+
+
+h1 {font-size: 60px;
+font-weight: 90px; 
+	padding-left: 42%;
 }
 
- 
+h2 {font-size: 12px;
+	
+
+	padding-top: 10px;
+	padding-left: 45%;
+	
+}
+
+h3 {font-size: 30px;
+	
+	padding-top: 30px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Verdana", "sans-serif";
+	padding-left: 45%;
+	 }
+
+h4 {font-size: 30px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Verdana", "sans-serif";
+	padding-left: 41%;
+	padding-bottom: 10px;
+	 }
+
+li {margin: 25px;
+}
+
+ul#line {list-style: decimal;
+	padding-left: 5%}
+		
+	
+footer {padding-left: 50%;
+padding-top: 30px;}
 
 
-              .bullets {
-              display: block;
-              margin-top: 1em;
-              margin-bottom: 40em;
-              margin-left: 200;
-              margin-right: 200;
-              text-align: center;
-              color: aliceblue;
-              
-            }
 
-h1 {font-size: 24px;
-font-weight: 30px; }
 
-li {margin: 25px;}
+
+
+
+
+
